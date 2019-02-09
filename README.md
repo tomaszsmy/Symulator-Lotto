@@ -1,0 +1,1 @@
+Symulator pozwalający wytypować swój zakład(6 unikalnych liczb) i przeprowadzić od 1 do 10 milionów losowań, wyświetla ilość trafionych czwórek, piątek i szóstek.
